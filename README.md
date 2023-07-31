@@ -21,12 +21,14 @@ Mongodb
 For Frontend.
 
 cd client
-yarn start
-For Backend.
 
+npm  start
+
+For Backend.
 Open another terminal in folder, Also make sure mongodb is running in background.
 
 cd server
+
 yarn start
 
 Done! Now open localhost:3000 in your browser.
