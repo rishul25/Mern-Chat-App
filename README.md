@@ -10,14 +10,14 @@ register page
 ![Screenshot (89)](https://github.com/rishul25/Mern-chat-App/assets/85450019/624ba756-1411-4d09-b5f0-b897f2043eba)
 
 Installation Guide
-Requirements
-Nodejs
-Mongodb
-Both should be installed and make sure mongodb is running.
 
-git clone https://github.com/koolkishan/chat-app-react-nodejs
-cd chat-app-react-nodejs
-Now rename env files from .env.example to .env
+Requirements
+
+Nodejs
+
+Mongodb
+
+Both should be installed and make sure mongodb is running.
 
 cd public
 mv .env.example .env
